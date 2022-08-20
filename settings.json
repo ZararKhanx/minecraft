@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "Zia ul Haq",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "ziagang.aternos.me",
+    "port": 11975,
+    "version": "1.17.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "Marde Momin Marde Haq",
+        "Fuck Israel",
+        "Fuck LGBTQ",
+        "Zia ul Haq tera baap"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000
+  }
+}
